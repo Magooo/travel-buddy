@@ -202,6 +202,8 @@ export default function Dashboard() {
     const handleDelete = async (id) => {
         if (confirm('Delete this activity?')) {
             await db.activities.delete(id);
+            const { supabase } = await import('../lib/supabase');
+            await supabase.from('activities').delete().eq('id', id);
         }
     };
 
@@ -276,8 +278,8 @@ export default function Dashboard() {
     const totalDays = timeline?.length || 0;
     const totalActivities = timeline?.reduce((acc, day) => acc + (day.activities?.length || 0), 0) || 0;
 
-    // default to Tokyo (or trip destination if we had coords) if empty
-    const mapCenter = markers.length > 0 ? markers[0] : { lat: 35.6762, lng: 139.6503 };
+    // default to London if empty so it doesn't look like the Japan dummy data bug
+    const mapCenter = markers.length > 0 ? markers[0] : { lat: 51.5074, lng: -0.1278 };
 
     return (
         <div style={{ paddingBottom: '6rem' }}>
