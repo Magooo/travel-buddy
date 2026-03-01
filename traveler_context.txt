@@ -1,0 +1,276 @@
+MATCH: Judy at line 2289
+ge42yGNoQ==
+Thu, 29 Jan 2026 20:08:05 -0800 (PST)
+for <jason@cavalierhomesgv.com.au>
+(version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+Thu, 29 Jan 2026 20:08:05 -0800 (PST)
+From: Judy McHugh <judymc4@gmail.com>
+To: "jason@cavalierhomesgv.com.au" <jason@cavalierhomesgv.com.au>
+Subject: Fw: You have a message from Hodson Bay Hotel
+Date: Fri, 30 Jan 2026 04:07:33 +0000
+x-ms-reactions: allow
+(UTC)
+f943f7ae-99b7-4c0f-596f-08de5fb52fa6
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 3f7ec82b-80ac-449e-b716-dd61a64a8c82:0
+SY1PEPF00005A3D.ausprd01.prod.outlook.com
+X-MS-Office365-Filtering-Correlation-Id: f943f7ae-99b7-4c0f-596f-08de5fb52fa6
+X-Proofpoint-Verified: CavHomesPPE-MBDelivery
+(UTC)
+SY1PEPF00005A3D.ausprd01.prod.outlook.com
+________________________________
+
+----------------------------------------
+MATCH: Judy at line 2305
+X-Proofpoint-Verified: CavHomesPPE-MBDelivery
+(UTC)
+SY1PEPF00005A3D.ausprd01.prod.outlook.com
+________________________________
+Sent: Wednesday, January 21, 2026 00:37
+To: judymc4@gmail.com <judymc4@gmail.com>
+Subject: You have a message from Hodson Bay Hotel
+You have a new message from Hodson Bay Hotel
+Property's message:
+You will get the rooms with a walk in shower.
+Thank you.
+Tamar
+Reservation Details
+Check-in:
+Thu 4 Jun 2026
+Check-out:
+Wed 10 Jun 2026
+Property Name:
+Booking Number:
+"@outputVersion": "1.0",
+
+----------------------------------------
+MATCH: Judy at line 2533
+09wg==
+Thu, 29 Jan 2026 23:11:11 -0800 (PST)
+for <jason@cavalierhomesgv.com.au>
+(version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+Thu, 29 Jan 2026 23:11:11 -0800 (PST)
+From: Judy McHugh <judymc4@gmail.com>
+To: "jason@cavalierhomesgv.com.au" <jason@cavalierhomesgv.com.au>
+Subject:
+=?utf-8?Q?iday_parking?=
+=?utf-8?Q?_parking?=
+Date: Fri, 30 Jan 2026 07:11:09 +0000
+x-ms-reactions: allow
+type="multipart/alternative"
+(UTC)
+68acd8ea-8353-4b5b-b0cf-08de5fcec573
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 3f7ec82b-80ac-449e-b716-dd61a64a8c82:0
+SY1PEPF00005A3F.ausprd01.prod.outlook.com
+X-MS-Office365-Filtering-Correlation-Id: 68acd8ea-8353-4b5b-b0cf-08de5fcec573
+X-Proofpoint-Verified: CavHomesPPE-MBDelivery
+
+----------------------------------------
+MATCH: Judy at line 2554
+SY1PEPF00005A3F.ausprd01.prod.outlook.com
+I think I gave you this one before.
+________________________________
+From: noreply@booking.com <noreply@booking.com>
+Sent: Wednesday, December 31, 2025 7:26:47 PM
+To: judymc4@gmail.com <judymc4@gmail.com>
+Subject: 🛄 Thanks! Your booking is confirmed at Corner House Hotel Gatwick with bookable Holiday parking
+PIN: 1624 (Confidential)
+Thanks Judy! Your booking in Horley is confirmed.
+Corner House Hotel Gatwick with bookable Holiday parking is expecting you on Wed 27 May
+Please keep your PIN confidential as it can be used to modify or cancel your booking.
+Corner House Hotel Gatwick with bookable Holiday parking
+We'll never ask you to share your account, personal or payment details over the phone, email or chat (e.g. WhatsApp).
+Reservation details
+Check-in	 Wednesday, 27 May 2026 (from 14:00)
+Check-out	 Saturday, 30 May 2026 (until 11:00)
+Your reservation	 3 nights, 3 rooms
+You booked for	 5 adults
+Location	 72 Massetts Road, Horley, RH6 7ED, United Kingdom
+Phone	 +44 1293 784574 <tel:+44%201293%20784574>
+
+----------------------------------------
+MATCH: Judy at line 2557
+From: noreply@booking.com <noreply@booking.com>
+Sent: Wednesday, December 31, 2025 7:26:47 PM
+To: judymc4@gmail.com <judymc4@gmail.com>
+Subject: 🛄 Thanks! Your booking is confirmed at Corner House Hotel Gatwick with bookable Holiday parking
+PIN: 1624 (Confidential)
+Thanks Judy! Your booking in Horley is confirmed.
+Corner House Hotel Gatwick with bookable Holiday parking is expecting you on Wed 27 May
+Please keep your PIN confidential as it can be used to modify or cancel your booking.
+Corner House Hotel Gatwick with bookable Holiday parking
+We'll never ask you to share your account, personal or payment details over the phone, email or chat (e.g. WhatsApp).
+Reservation details
+Check-in	 Wednesday, 27 May 2026 (from 14:00)
+Check-out	 Saturday, 30 May 2026 (until 11:00)
+Your reservation	 3 nights, 3 rooms
+You booked for	 5 adults
+Location	 72 Massetts Road, Horley, RH6 7ED, United Kingdom
+Phone	 +44 1293 784574 <tel:+44%201293%20784574>
+Price details
+3 rooms
+AUD 978.50
+
+----------------------------------------
+MATCH: Judy at line 2586
+23 May 2026
+Scheduled	 AUD 1,200.04*
+*This amount is based on exchange rates at the time of booking. It may change by the time you pay.
+Room 1: Standard Double Room
+Guest name
+Judy McHugh
+Meal plan
+Breakfast costs £12.95 per person per night.
+Cancellation policy
+You may cancel free of charge until 2 days before arrival. If you cancel in the 2 days before arrival, the cancellation fee will be the total price of the reservation. If you don't show up, the no-show fee will be the same as the cancellation fee.
+Cancellation cost
+*	until 24 May 2026 23:59: AUD 0
+*	from 25 May 2026 00:00: AUD 415.05
+Cancellation deadlines are in the property's local time.
+Room 2: Single Room with Shower
+Guest name
+Judy McHugh
+Meal plan
+Breakfast costs £12.95 per person per night.
+Cancellation policy
+
+----------------------------------------
+MATCH: Judy at line 2597
+*	until 24 May 2026 23:59: AUD 0
+*	from 25 May 2026 00:00: AUD 415.05
+Cancellation deadlines are in the property's local time.
+Room 2: Single Room with Shower
+Guest name
+Judy McHugh
+Meal plan
+Breakfast costs £12.95 per person per night.
+Cancellation policy
+You may cancel free of charge until 2 days before arrival. If you cancel in the 2 days before arrival, the cancellation fee will be the total price of the reservation. If you don't show up, the no-show fee will be the same as the cancellation fee.
+Cancellation cost
+*	until 24 May 2026 23:59: AUD 0
+*	from 25 May 2026 00:00: AUD 369.92
+Cancellation deadlines are in the property's local time.
+Room 3: Standard Double Room
+Guest name
+Judy McHugh
+Meal plan
+Breakfast costs £12.95 per person per night.
+Cancellation policy
+
+----------------------------------------
+MATCH: Judy at line 2608
+*	until 24 May 2026 23:59: AUD 0
+*	from 25 May 2026 00:00: AUD 369.92
+Cancellation deadlines are in the property's local time.
+Room 3: Standard Double Room
+Guest name
+Judy McHugh
+Meal plan
+Breakfast costs £12.95 per person per night.
+Cancellation policy
+You may cancel free of charge until 2 days before arrival. If you cancel in the 2 days before arrival, the cancellation fee will be the total price of the reservation. If you don't show up, the no-show fee will be the same as the cancellation fee.
+Cancellation cost
+*	until 24 May 2026 23:59: AUD 0
+*	from 25 May 2026 00:00: AUD 415.05
+Cancellation deadlines are in the property's local time.
+To get the app, scan this code with your phone camera
+Make your trip easy with the app
+Change or cancel bookings on the go, chat directly with your property, and much more.
+Important Details
+*	The deposit will be refunded in full. All rooms are non-smoking.
+For group bookings that require more than four rooms, please note that different policies and conditions apply. Please contact us for more information.
+
+----------------------------------------
+MATCH: Judy at line 2687
+PyFA==
+Thu, 29 Jan 2026 23:07:46 -0800 (PST)
+for <jason@cavalierhomesgv.com.au>
+(version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+Thu, 29 Jan 2026 23:07:46 -0800 (PST)
+From: Judy McHugh <judymc4@gmail.com>
+To: "jason@cavalierhomesgv.com.au" <jason@cavalierhomesgv.com.au>
+Subject:
+=?utf-8?Q?on_-_Pass_the_Keys?=
+=?utf-8?Q?_Pass_the_Keys?=
+Date: Fri, 30 Jan 2026 07:07:43 +0000
+x-ms-reactions: allow
+type="multipart/alternative"
+(UTC)
+7b57c10e-116a-44e1-d4b5-08de5fce4a23
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 3f7ec82b-80ac-449e-b716-dd61a64a8c82:0
+ML1PEPF0000F17A.ausprd01.prod.outlook.com
+X-MS-Office365-Filtering-Correlation-Id: 7b57c10e-116a-44e1-d4b5-08de5fce4a23
+X-Proofpoint-Verified: CavHomesPPE-MBDelivery
+
+----------------------------------------
+MATCH: Judy at line 2708
+ML1PEPF0000F17A.ausprd01.prod.outlook.com
+Here is Chipping Norton booking
+________________________________
+From: noreply@booking.com <noreply@booking.com>
+Sent: Thursday, January 1, 2026 2:41:57 PM
+To: judymc4@gmail.com <judymc4@gmail.com>
+Subject: 🛄 Thanks! Your booking is confirmed at Cosy Bliss Lodge 5 min walk to Chipping Norton - Pass the Keys
+PIN: 2382 (Confidential)
+Thanks Judy! Your holiday home in Chipping Norton is confirmed.
+Please keep your PIN confidential as it can be used to modify or cancel your booking.
+You can cancel for FREE until 15 May 2026 23:59 [BST].
+Cosy Bliss Lodge 5 min walk to Chipping Norton - Pass the Keys
+We'll never ask you to share your account, personal or payment details over the phone, email or chat (e.g. WhatsApp).
+Reservation details
+Check-in	 Saturday, 30 May 2026 (16:00 - 00:00)
+Check-out	 Wednesday, 3 June 2026 (until 10:00)
+Your reservation	 4 nights, Three-Bedroom House
+You booked for	 5 adults
+Location	 Chipping Norton, OX7 5HG, United Kingdom Bliss Lodge, 20A Cross Leys
+Phone	 +44 7853 301288 <tel:+44%207853%20301288>
+
+----------------------------------------
+MATCH: Judy at line 2711
+From: noreply@booking.com <noreply@booking.com>
+Sent: Thursday, January 1, 2026 2:41:57 PM
+To: judymc4@gmail.com <judymc4@gmail.com>
+Subject: 🛄 Thanks! Your booking is confirmed at Cosy Bliss Lodge 5 min walk to Chipping Norton - Pass the Keys
+PIN: 2382 (Confidential)
+Thanks Judy! Your holiday home in Chipping Norton is confirmed.
+Please keep your PIN confidential as it can be used to modify or cancel your booking.
+You can cancel for FREE until 15 May 2026 23:59 [BST].
+Cosy Bliss Lodge 5 min walk to Chipping Norton - Pass the Keys
+We'll never ask you to share your account, personal or payment details over the phone, email or chat (e.g. WhatsApp).
+Reservation details
+Check-in	 Saturday, 30 May 2026 (16:00 - 00:00)
+Check-out	 Wednesday, 3 June 2026 (until 10:00)
+Your reservation	 4 nights, Three-Bedroom House
+You booked for	 5 adults
+Location	 Chipping Norton, OX7 5HG, United Kingdom Bliss Lodge, 20A Cross Leys
+Phone	 +44 7853 301288 <tel:+44%207853%20301288>
+Cancellation policy
+You may cancel free of charge until 14 days before arrival. If you cancel in the 14 days before arrival, the cancellation fee will be the total price of the reservation. If you don't show up, the no-show fee will be the total price of the reservation.
+Cancellation cost
+
+----------------------------------------
+MATCH: Judy at line 2746
+14 May 2026
+Scheduled	 AUD 2,141.88*
+*This amount is based on exchange rates at the time of booking. It may change by the time you pay.
+Three-Bedroom House
+Guest name
+Judy McHugh
+Meal plan
+There is no meal option with this room.
+To get the app, scan this code with your phone camera
+Make your trip easy with the app
+Change or cancel bookings on the go, chat directly with your property, and much more.
+Important Details
+*	On behalf of our host at Pass the Keys, we require guest verification facilitated by Truvi. Upon confirming your booking, Truvi will contact the lead booker via a secure link, providing detailed instructions for the verification process. The online verification requires a government-issued photo ID and a credit or debit card. During this process, you may choose between a refundable GBP 500 deposit (plus GBP 10 transaction fee currency equivalent) or purchase a non-refundable damage waiver of GBP 40 (currency equivalent) to cover potential damages during your stay. Once the verification process is successfully completed, check-in information will be provided. If you opted in for a deposit, this will be refunded via credit/debit card after your stay, subject to an inspection of the property.
+*	Guests are required to show a photo identification and credit card upon check-in. Please note that all Special Requests are subject to availability and additional charges may apply.
+*	Please inform Cosy Bliss Lodge 5 min walk to Chipping Norton - Pass the Keys in advance of your expected arrival time. You can use the Special Requests box when booking, or contact the property directly with the contact details provided in your confirmation.
+*	This property will not accommodate hen, stag or similar parties.
+*	This property is located in a residential area and guests are asked to refrain from excessive noise.
+*	A damage deposit of GBP 500 is required. The host charges this 7 days before arrival. This will be collected by credit card. You should be reimbursed within 14 days of check-out. Your deposit will be refunded in full via credit card, subject to an inspection of the property.
+Travel with peace of mind
+Find information about travelling safely in our Safety Resource Centre, available on both the website and the app.
+
+----------------------------------------

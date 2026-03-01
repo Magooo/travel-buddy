@@ -1,0 +1,114 @@
+[
+  {
+    "source_file": "AU_Terms_and_Conditions.pdf",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\AU_Terms_and_Conditions.pdf",
+    "type": "flight",
+    "title": "AU_Terms_and_Conditions.pdf",
+    "location": "Singapore",
+    "processed_at": "2026-02-16T23:01:40.008807"
+  },
+  {
+    "source_file": "CATHRYN MCHUGH 8BMK5X 15JUL 1140 PRG.pdf",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\CATHRYN MCHUGH 8BMK5X 15JUL 1140 PRG.pdf",
+    "type": "flight",
+    "title": "Flight to Melbourne",
+    "location": "Prague (PRG) to Melbourne (MEL)",
+    "processed_at": "2026-02-16T23:01:40.193196",
+    "startDate": "2025-12-13T00:00:00",
+    "endDate": "2026-07-16T00:00:00"
+  },
+  {
+    "source_file": "CLEAN_SUMMARY.txt",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\CLEAN_SUMMARY.txt",
+    "type": "flight",
+    "title": "Flight to Abu Dhabi",
+    "location": "Paris (CDG) to Abu Dhabi (AUH)",
+    "processed_at": "2026-02-16T23:01:40.337887",
+    "startDate": "2025-12-12T00:00:00",
+    "endDate": "2026-07-16T00:00:00"
+  },
+  {
+    "source_file": "Day one car rental receipt.pdf",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\Day one car rental receipt.pdf",
+    "type": "flight",
+    "title": "Day one car rental receipt.pdf",
+    "location": "Unknown",
+    "processed_at": "2026-02-16T23:01:40.836611"
+  },
+  {
+    "source_file": "Guest_HANLON9446426.pdf",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\Guest_HANLON9446426.pdf",
+    "type": "flight",
+    "title": "Guest_HANLON9446426.pdf",
+    "location": "Prague",
+    "processed_at": "2026-02-16T23:01:41.019289"
+  },
+  {
+    "source_file": "Guest_Information_Form1MCHUGH9453481.pdf",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\Guest_Information_Form1MCHUGH9453481.pdf",
+    "type": "flight",
+    "title": "Guest_Information_Form1MCHUGH9453481.pdf",
+    "location": "Unknown",
+    "processed_at": "2026-02-16T23:01:41.158875",
+    "startDate": "2026-06-28T00:00:00",
+    "endDate": "2026-06-28T00:00:00"
+  },
+  {
+    "source_file": "Guest_MCHUGH9453481.pdf",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\Guest_MCHUGH9453481.pdf",
+    "type": "flight",
+    "title": "Guest_MCHUGH9453481.pdf",
+    "location": "Prague",
+    "processed_at": "2026-02-16T23:01:41.344153"
+  },
+  {
+    "source_file": "JASON MCHUGH 8BMK5X 15JUL 1140 PRG.pdf",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\JASON MCHUGH 8BMK5X 15JUL 1140 PRG.pdf",
+    "type": "flight",
+    "title": "Flight to Melbourne",
+    "location": "Prague (PRG) to Melbourne (MEL)",
+    "processed_at": "2026-02-16T23:01:41.537769",
+    "startDate": "2025-12-13T00:00:00",
+    "endDate": "2026-07-16T00:00:00"
+  },
+  {
+    "source_file": "MARGARET HANLON 8BMK5X 15JUL 1140 PRG.pdf",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\MARGARET HANLON 8BMK5X 15JUL 1140 PRG.pdf",
+    "type": "flight",
+    "title": "Flight to Melbourne",
+    "location": "Prague (PRG) to Melbourne (MEL)",
+    "processed_at": "2026-02-16T23:01:41.716978",
+    "startDate": "2025-12-13T00:00:00",
+    "endDate": "2026-07-16T00:00:00"
+  },
+  {
+    "source_file": "TRIP_DOCS_READABLE.txt",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\TRIP_DOCS_READABLE.txt",
+    "type": "flight",
+    "title": "Flight to Abu Dhabi",
+    "location": "Melbourne (MEL) to Abu Dhabi (AUH)",
+    "processed_at": "2026-02-16T23:01:41.726431",
+    "startDate": "2025-12-12T00:00:00",
+    "endDate": "2026-07-16T00:00:00"
+  },
+  {
+    "source_file": "TRIP_SUMMARY.txt",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\TRIP_SUMMARY.txt",
+    "type": "flight",
+    "title": "Flight to Abu Dhabi",
+    "location": "Melbourne (MEL) to Abu Dhabi (AUH)",
+    "processed_at": "2026-02-16T23:01:41.751094",
+    "startDate": "2025-12-12T00:00:00",
+    "endDate": "2026-07-16T00:00:00"
+  },
+  {
+    "source_file": "Your Electronic Receipt.pdf",
+    "source_path": "c:\\Users\\jason.m.chgv\\Documents\\travel buddy\\email recipts of travel docs\\Your Electronic Receipt.pdf",
+    "type": "flight",
+    "title": "Flight to Melbourne",
+    "location": "Sydney (SYD) to Melbourne (MEL)",
+    "processed_at": "2026-02-16T23:01:41.989316",
+    "startDate": "2025-12-12T00:00:00",
+    "endDate": "2026-05-27T00:00:00"
+  }
+]
