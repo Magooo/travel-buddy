@@ -108,7 +108,14 @@ export default function Settings() {
                                                 await db.activities.where({ tripId: trip.id }).delete();
                                                 await db.sections.where({ tripId: trip.id }).delete();
                                             });
-                                            // formatting fix
+                                            // Ensure the trip is removed from Cloud preventing it from reappearing on refresh
+                                            try {
+                                                if (typeof trip.id === 'string' || trip.id.length > 10) {
+                                                    await supabase.from('trips').delete().eq('id', trip.id);
+                                                }
+                                            } catch (err) {
+                                                console.error("Supabase failed to delete trip:", err);
+                                            }
                                         }
                                     }}
                                     style={{ fontSize: '0.75rem', background: '#fee2e2', color: '#ef4444', padding: '0.25rem 0.75rem', borderRadius: '1rem', cursor: 'pointer', border: 'none', fontWeight: '600', display: 'flex', alignItems: 'center', gap: '0.25rem' }}>
