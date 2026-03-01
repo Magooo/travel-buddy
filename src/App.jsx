@@ -8,11 +8,8 @@ import AuthRoute from './components/AuthRoute';
 import MapPage from './pages/MapPage';
 import Settings from './pages/Settings';
 import VaultPage from './pages/VaultPage';
-import { seedDatabase, seedExtraTripData, fixItineraryDisplay } from './lib/db';
 
 function App() {
-  
-  }, []);
 
   return (
     <APIProvider apiKey={import.meta.env.VITE_GOOGLE_MAPS_API_KEY || ''}>
