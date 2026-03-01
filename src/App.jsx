@@ -11,11 +11,7 @@ import VaultPage from './pages/VaultPage';
 import { seedDatabase, seedExtraTripData, fixItineraryDisplay } from './lib/db';
 
 function App() {
-  useEffect(() => {
-    seedDatabase()
-      .then(() => seedExtraTripData())
-      .then(() => fixItineraryDisplay())
-      .catch(console.error);
+  
   }, []);
 
   return (
